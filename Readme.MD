@@ -7,7 +7,8 @@
 As the application uses an embedded database, every time it is being restarted the data inserted will be erased.
 
 ### Usage
-* Run the jar as a java application (It requires java jdk to be installed on your computer)
+* To run the jar, either clone the repository and run "maven clean install" to run the tests and build the jar or, clone the repository and run the jar from the target directory 
+* Note: it is required to have jdk installed on your computer/server
 ```
 java -jar target/currencyfair-1.0-SNAPSHOT.jar
 ```
