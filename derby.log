@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 02 20:34:25 GMT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-8aab-01d3-00000935b860 
+on database directory memory:/home/alexander11/IdeaProjects/currencyfair/de1b3b93-c6af-4ec2-b73a-f78446132ba1 with class loader org.springframework.boot.loader.LaunchedURLClassLoader@41cf53f9 
+Loaded from jar:file:/home/alexander11/IdeaProjects/currencyfair/target/currencyfair-1.0-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Ubuntu
+java.runtime.version=11.0.8+10-post-Ubuntu-0ubuntu118.04.1
+user.dir=/home/alexander11/IdeaProjects/currencyfair
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-42-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
